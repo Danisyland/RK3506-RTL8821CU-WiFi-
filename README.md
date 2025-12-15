@@ -1,0 +1,2 @@
+# RK3506-RTL8821CU-WiFi-
+RK3506 平台 RTL8821CU WiFi 驱动移植与自动联网过程
